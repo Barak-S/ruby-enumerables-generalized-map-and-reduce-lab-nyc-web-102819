@@ -13,6 +13,7 @@ def reduce(array, starting_value = nil)
   if sv 
     num1= sv
     i=0
+  else
     
   
 end
