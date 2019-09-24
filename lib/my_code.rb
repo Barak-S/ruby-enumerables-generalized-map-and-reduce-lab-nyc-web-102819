@@ -10,7 +10,8 @@ end
 
 
 def reduce(array, starting_value = nil)
-  
+  if sv 
+    
   
   
 end
